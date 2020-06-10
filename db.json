@@ -1,14 +1,28 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
+{
+  "posts": [
+    {
+      "id": 1,
+      "titletype": "Access Request",
+      "description":"Need access to VM",
+      "status":"open",
+      "raisedby":"1000"
+    },
+      {
+      "id": 2,
+      "titletype": "Request",
+      "description":"Restart VM",
+      "status":"Closed",
+      "raisedby":"1001"
+    },
+      {
+      "id": 3,
+      "titletype": "Issue",
+      "description":"Tool not working",
+      "status":"In progress",
+      "raisedby":"admin@ab-inbev.com"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
