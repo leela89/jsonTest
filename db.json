@@ -1,8 +1,16 @@
 
-  {
-    "id": 1,
+{
+  "posts": [
+    {
+      "id": 1,
     "name": "Leela",
     "username": "leela.d",
     "email": "leela.d@ab-inbev.com"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}  
+
 
