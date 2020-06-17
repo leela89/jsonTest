@@ -11,55 +11,55 @@
       "name": "Abinbev"}
     },
     {
-      "id": 3,
-    "name": "Name2",
-    "username": "leela.d",
-    "email": "leela.d@ab-inbev.com",
-     "phone":"1234",
+      "id": 2,
+    "name": "Pradeep H N",
+    "username": "Pradeep",
+    "email": "Pradeep@ab-inbev.com",
+     "phone":"4327642873",
       "company": {
-      "name": "Romaguera-Crona"}
+      "name": "Abinbev"}
     },
      {
-      "id": 2,
-    "name": "Leela",
-    "username": "leela.d",
-    "email": "leela.d@ab-inbev.com",
-     "phone":"1234",
+      "id": 3,
+    "name": "tester",
+    "username": "tester json",
+    "email": "tester@ab-inbev.com",
+     "phone":"123434",
       "company": {
       "name": "Abinbev"}
     },
      {
       "id": 4,
-    "name": "Leela",
-    "username": "leela.d",
-    "email": "leela.d@ab-inbev.com",
-     "phone":"1234",
+    "name": "Deepak N",
+    "username": "deepak",
+    "email": "deepak@ab-inbev.com",
+     "phone":"45345",
       "company": {
       "name": "Abinbev"}
     },
      {
       "id": 5,
-    "name": "Leela",
-    "username": "leela.d",
-    "email": "leela.d@ab-inbev.com",
-     "phone":"1234",
+    "name": "Nagesh",
+    "username": "Nagesh",
+    "email": "Nagesh@ab-inbev.com",
+     "phone":"4543",
       "company": {
       "name": "Abinbev"}
     },
      {
       "id": 6,
-    "name": "Leela",
-    "username": "leela.d",
-    "email": "leela.d@ab-inbev.com",
-     "phone":"1234",
+    "name": "gireesh",
+    "username": "gireesh",
+    "email": "gireesh@ab-inbev.com",
+     "phone":"655654",
       "company": {
       "name": "Abinbev"}
     },
      {
       "id": 7,
-    "name": "Leela",
-    "username": "leela.d",
-    "email": "leela.d@ab-inbev.com",
+    "name": "suraj",
+    "username": "suraj",
+    "email": "suraj@ab-inbev.com",
      "phone":"1234",
       "company": {
       "name": "Abinbev"}
