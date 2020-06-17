@@ -12,9 +12,9 @@
     },
     {
       "id": 2,
-    "name": "Pradeep H N",
-    "username": "Pradeep",
-    "email": "Pradeep@ab-inbev.com",
+    "name": "Nagesh",
+    "username": "Nagesh",
+    "email": "Nagesh@ab-inbev.com",
      "phone":"9900990091",
       "company": {
       "name": "Abinbev"}
@@ -39,9 +39,9 @@
     },
      {
       "id": 5,
-    "name": "Nagesh",
-    "username": "Nagesh",
-    "email": "Nagesh@ab-inbev.com",
+    "name": "Pradeep",
+    "username": "Pradeep",
+    "email": "Pradeep@ab-inbev.com",
      "phone":"9900990095",
       "company": {
       "name": "Abinbev"}
