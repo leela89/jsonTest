@@ -7,7 +7,8 @@
     "username": "leela.d",
     "email": "leela.d@ab-inbev.com",
      "phone":"1234",
-      "company":"Abinbev"
+      "company": {
+      "name": "Romaguera-Crona"}
     }
   ],
   "profile": {
